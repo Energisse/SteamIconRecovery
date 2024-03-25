@@ -1,0 +1,16 @@
+{
+  "name": "steamiconrevcover",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Energisse",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "steam-user": "^5.0.8",
+    "vdf-parser": "^1.2.1"
+  }
+}
